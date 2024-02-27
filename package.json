@@ -1,0 +1,26 @@
+{
+  "name": "@mallusrgreat/object-difference",
+  "version": "1.0.0",
+  "description": "View the difference between two objects.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "keywords": [
+    "object difference",
+    "object-difference",
+    "object-diff"
+  ],
+  "author": "mallusrgreat <mallusrgreat@duck.com>",
+  "bugs": {
+    "url": "https://github.com/mallusrgreatv2/object-difference/issues"
+  },
+  "homepage": "https://github.com/mallusrgreatv2/object-difference",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mallusrgreatv2/object-difference"
+  },
+  "types": "types.d.ts",
+  "license": "MIT"
+}
