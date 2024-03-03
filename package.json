@@ -1,6 +1,6 @@
 {
   "name": "@mallusrgreat/object-difference",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "View the difference between two objects.",
   "main": "lib/index.js",
   "directories": {
